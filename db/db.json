@@ -1,0 +1,28 @@
+{
+  "houses": [
+    {
+      "id": "1",
+      "title": "Beautiful Family House",
+      "image": "https://www.houseplans.net/news/wp-content/uploads/2023/07/57260-768.jpeg",
+      "description": "A lovely family house with a big garden.",
+      "price": 3000002,
+      "location": "123 Main St, Springfield"
+    },
+    {
+      "id": "2",
+      "title": "Modern Apartment",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTapw_XWWJYkuY2JzBMXZsmTWtaGHL3p60_kw&s",
+      "description": "A modern apartment in the city center.",
+      "price": 250000,
+      "location": "124 Main St, Springfield"
+    },
+    {
+      "id": "3",
+      "title": "Cozy Cottage",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/west-virginia-gray-cottage-64dd6bb056057.jpg?crop=0.943xw:0.817xh;0.0224xw,0.0932xh&resize=980:*",
+      "description": "A cozy cottage in the countryside.",
+      "price": 200001,
+      "location": "125 Main St, Springfield"
+    }
+  ]
+}
